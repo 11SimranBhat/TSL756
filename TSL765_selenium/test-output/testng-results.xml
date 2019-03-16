@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22595" started-at="2019-03-12T06:44:37Z" finished-at="2019-03-12T06:45:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22595" started-at="2019-03-12T06:44:37Z" finished-at="2019-03-12T06:45:00Z">
+      <class name="day7NG.alertExample">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:day7NG.alertExample@51efea79]" name="beforeTest" is-config="true" duration-ms="4548" started-at="2019-03-12T12:14:37Z" finished-at="2019-03-12T12:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="alertTest()[pri:0, instance:day7NG.alertExample@51efea79]" name="alertTest" duration-ms="16706" started-at="2019-03-12T12:14:42Z" finished-at="2019-03-12T12:14:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:day7NG.alertExample@51efea79]" name="afterTest" is-config="true" duration-ms="1335" started-at="2019-03-12T12:14:59Z" finished-at="2019-03-12T12:15:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- day7NG.alertExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
